@@ -1,0 +1,45 @@
+
+.container{
+  background-image: url("http://kevintaylorart.com/img/post/large/after-van-gogh-starry-night-over-the-rhone-241.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: antiquewhite;
+  font-family: cursive;
+  /*min-height: 200px;*/
+
+}
+
+.profile{
+  padding-top: 200px;
+  display: block;
+  background-color: rgba(255,255,255,0.3);
+  width: 750px;
+  min-height: 100px;
+  margin-top: -150px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 30px;
+  border-radius: 5px;
+
+}
+
+.profile-image{
+  width: 100px;
+  height:100px;
+  border-radius: 100%;
+  overflow: hidden;
+
+  display: block;
+  margin: 0 auto;
+  margin-right: top: 100px;
+
+}
+
+.profile-image img{
+  width: 175px;
+}
+
+.profile-title, .profile_description{
+  text-align: center;
+  padding-top: 10px;
+}
